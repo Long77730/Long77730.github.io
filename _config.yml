@@ -1,0 +1,13 @@
+title: Long77730 · 个人博客
+description: 记录 HTML、CSS、静态网页制作与学习过程。
+url: https://long77730.github.io
+baseurl: ""
+github_username: Long77730
+lang: zh-CN
+timezone: Asia/Shanghai
+markdown: kramdown
+permalink: /posts/:title/
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
